@@ -70,3 +70,7 @@ yarn start
 Michel de Oliveira Santos Corrêa
 
 https://www.linkedin.com/in/michel-corr%C3%AAa-3268a113a/
+
+## Licença
+
+Este projeto está sobre a licença [MIT](./LICENSE).
