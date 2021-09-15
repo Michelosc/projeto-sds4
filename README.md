@@ -72,4 +72,4 @@ https://www.linkedin.com/in/michel-corr%C3%AAa-3268a113a/
 
 ## Licença
 
-Este projeto está sobre a licença [MIT](./LICENSE).
+Este projeto está sob a licença [MIT](./LICENSE).
